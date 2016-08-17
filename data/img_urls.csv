@@ -1,0 +1,978 @@
+WNT16,http://www.proteinatlas.org/images/27030/59322_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+WNT16,http://www.proteinatlas.org/images/27030/59322_B_5_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+TFAP2B,http://www.proteinatlas.org/images/10426/24204_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Moderate,Epidermis
+TFAP2B,http://www.proteinatlas.org/images/10426/24204_B_6_8.jpg,epidermal cells: Weak,Epidermis
+TFAP2B,http://www.proteinatlas.org/images/34683/82211_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Strong,Epidermis
+TFAP2B,http://www.proteinatlas.org/images/34683/82211_B_5_8.jpg,epidermal cells: Strong,Epidermis
+IL20RA,http://www.proteinatlas.org/images/24990/64031_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+IL20RA,http://www.proteinatlas.org/images/24990/64031_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+IL20RA,http://www.proteinatlas.org/images/42281/90551_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis/Dermis
+IL20RA,http://www.proteinatlas.org/images/42281/90551_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+VCAN,http://www.proteinatlas.org/images/4726/12823_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Dermis/DEJ
+VCAN,http://www.proteinatlas.org/images/4726/12823_B_4_8.jpg,epidermal cells: Weak,Dermis/DEJ
+VCAN,http://www.proteinatlas.org/images/8979/23629_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Weak,Dermis/DEJ
+VCAN,http://www.proteinatlas.org/images/8979/23629_B_4_8.jpg,epidermal cells: Weak,Dermis/DEJ
+TNC,http://www.proteinatlas.org/images/4592/12212_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,DEJ
+TNC,http://www.proteinatlas.org/images/4592/12212_B_4_8.jpg,epidermal cells: Weak,DEJ
+TNC,http://www.proteinatlas.org/images/4823/13810_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,DEJ
+TNC,http://www.proteinatlas.org/images/4823/13810_B_4_8.jpg,epidermal cells: Weak,DEJ
+DSG2,http://www.proteinatlas.org/images/4896/15170_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,DEJ
+DSG2,http://www.proteinatlas.org/images/4896/15170_B_4_8.jpg,epidermal cells: Moderate,DEJ
+DSG2,http://www.proteinatlas.org/images/25122/55672_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,DEJ
+DSG2,http://www.proteinatlas.org/images/25122/55672_B_6_8.jpg,epidermal cells: Moderate,DEJ
+LTBP1,http://www.proteinatlas.org/images/6221/22727_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+LTBP1,http://www.proteinatlas.org/images/6221/22727_B_4_8.jpg,epidermal cells: Negative,Dermis
+LTBP1,http://www.proteinatlas.org/images/25428/55565_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Dermis
+LTBP1,http://www.proteinatlas.org/images/25428/55565_B_6_8.jpg,epidermal cells: Weak,Dermis
+ELN,http://www.proteinatlas.org/images/10750/25579_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Dermis 
+ELN,http://www.proteinatlas.org/images/10750/25579_B_4_8.jpg,epidermal cells: Negative,Dermis 
+ELN,http://www.proteinatlas.org/images/18111/40709_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis 
+ELN,http://www.proteinatlas.org/images/18111/40709_B_4_8.jpg,epidermal cells: Negative,Dermis 
+ELN,http://www.proteinatlas.org/images/56941/133153_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis 
+ELN,http://www.proteinatlas.org/images/56941/133153_B_6_8.jpg,epidermal cells: Negative,Dermis 
+COL23A1,http://www.proteinatlas.org/images/67824/152845_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+COL23A1,http://www.proteinatlas.org/images/67824/152845_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+CDH3,http://www.proteinatlas.org/images/1767/8164_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+CDH3,http://www.proteinatlas.org/images/1767/8164_B_6_8.jpg,epidermal cells: Strong,Epidermis
+CDH3,http://www.proteinatlas.org/images/2487/6286_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+CDH3,http://www.proteinatlas.org/images/2487/6286_B_4_8.jpg,epidermal cells: Strong,Epidermis
+ARSF,http://www.proteinatlas.org/images/549/1001_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Strong,Epidermis
+ARSF,http://www.proteinatlas.org/images/549/1001_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+GPC1,http://www.proteinatlas.org/images/30571/64142_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+GPC1,http://www.proteinatlas.org/images/30571/64142_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+DLX3,http://www.proteinatlas.org/images/31164/64852_B_7_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+DLX3,http://www.proteinatlas.org/images/31164/64852_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+COL17A1,http://www.proteinatlas.org/images/43673/142393_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,DEJ
+COL17A1,http://www.proteinatlas.org/images/43673/142393_B_6_8.jpg,epidermal cells: Moderate,DEJ
+COL17A1,http://www.proteinatlas.org/images/52963/142474_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,DEJ
+COL17A1,http://www.proteinatlas.org/images/52963/142474_B_6_8.jpg,epidermal cells: Moderate,DEJ
+FGFR3,http://www.proteinatlas.org/images/4231/11838_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Weak: melanocytes: Moderate,Epidermis/Dermis
+FGFR3,http://www.proteinatlas.org/images/4231/11838_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+HES2,http://www.proteinatlas.org/images/39462/82913_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+HES2,http://www.proteinatlas.org/images/39462/82913_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+CYP2W1,http://www.proteinatlas.org/images/12753/29609_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Weak: melanocytes: Negative,Epidermis/Dermis
+CYP2W1,http://www.proteinatlas.org/images/12753/29609_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+TP63,http://www.proteinatlas.org/images/83/860_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis
+TP63,http://www.proteinatlas.org/images/83/860_B_6_8.jpg,epidermal cells: Strong,Epidermis
+TP63,http://www.proteinatlas.org/images/6288/19019_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Weak,Epidermis
+TP63,http://www.proteinatlas.org/images/6288/19019_B_4_8.jpg,epidermal cells: Strong,Epidermis
+TP63,http://www.proteinatlas.org/images/7010/19079_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis
+TP63,http://www.proteinatlas.org/images/7010/19079_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+CAMSAP3,http://www.proteinatlas.org/images/43830/95835_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+CAMSAP3,http://www.proteinatlas.org/images/43830/95835_B_6_8.jpg,epidermal cells: Negative,Epidermis/Dermis
+TYR,http://www.proteinatlas.org/images/79/994_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Strong,Epidermis 
+TYR,http://www.proteinatlas.org/images/79/994_B_6_8.jpg,epidermal cells: Strong,Epidermis 
+FBLN1,http://www.proteinatlas.org/images/1612/7061_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Dermis
+FBLN1,http://www.proteinatlas.org/images/1612/7061_B_4_8.jpg,epidermal cells: Moderate,Dermis
+FBLN1,http://www.proteinatlas.org/images/1613/7065_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Dermis
+FBLN1,http://www.proteinatlas.org/images/1613/7065_B_4_8.jpg,epidermal cells: Negative,Dermis
+FBLN1,http://www.proteinatlas.org/images/4393/12770_B_7_1.jpg,keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+FBLN1,http://www.proteinatlas.org/images/4393/12770_B_4_8.jpg,epidermal cells: Moderate,Dermis
+FBLN1,http://www.proteinatlas.org/images/68187/152458_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+FBLN1,http://www.proteinatlas.org/images/68187/152458_B_6_8.jpg,epidermal cells: Negative,Dermis
+TP73,http://www.proteinatlas.org/images/2514/142954_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+TP73,http://www.proteinatlas.org/images/2514/142954_B_6_8.jpg,epidermal cells: Strong,Epidermis
+TP73,http://www.proteinatlas.org/images/3022/155441_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis
+TP73,http://www.proteinatlas.org/images/3022/155441_B_6_8.jpg,epidermal cells: Strong,Epidermis
+DCT,http://www.proteinatlas.org/images/10743/26206_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Strong,Epidermis
+DCT,http://www.proteinatlas.org/images/10743/26206_B_4_8.jpg,epidermal cells: Strong,Epidermis
+DCT,http://www.proteinatlas.org/images/10800/26198_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Strong,Epidermis
+DCT,http://www.proteinatlas.org/images/10800/26198_B_4_8.jpg,epidermal cells: Strong,Epidermis
+DCT,http://www.proteinatlas.org/images/17634/39219_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Strong,Epidermis
+DCT,http://www.proteinatlas.org/images/17634/39219_B_6_8.jpg,epidermal cells: Strong,Epidermis
+COL5A3,http://www.proteinatlas.org/images/48256/118230_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Strong,Epidermis
+COL5A3,http://www.proteinatlas.org/images/48256/118230_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+PKP1,http://www.proteinatlas.org/images/27221/63513_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis
+PKP1,http://www.proteinatlas.org/images/27221/63513_B_6_8.jpg,epidermal cells: Strong,Epidermis
+PKP1,http://www.proteinatlas.org/images/27589/61305_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis
+PKP1,http://www.proteinatlas.org/images/27589/61305_B_6_8.jpg,epidermal cells: Strong,Epidermis
+HAL,http://www.proteinatlas.org/images/38547/80965_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Strong,Epidermis/Dermis
+HAL,http://www.proteinatlas.org/images/38547/80965_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+HAL,http://www.proteinatlas.org/images/38548/80957_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+HAL,http://www.proteinatlas.org/images/38548/80957_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+COL16A1,http://www.proteinatlas.org/images/27235/58559_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+COL16A1,http://www.proteinatlas.org/images/27235/58559_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+COL16A1,http://www.proteinatlas.org/images/27237/58555_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+COL16A1,http://www.proteinatlas.org/images/27237/58555_B_5_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+IGSF9,http://www.proteinatlas.org/images/37753/75981_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Moderate,Epidermis/Dermis
+IGSF9,http://www.proteinatlas.org/images/37753/75981_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+FAT2,http://www.proteinatlas.org/images/33680/65963_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+FAT2,http://www.proteinatlas.org/images/33680/65963_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+TFAP2C,http://www.proteinatlas.org/images/16061/35101_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+TFAP2C,http://www.proteinatlas.org/images/16061/35101_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+TFAP2C,http://www.proteinatlas.org/images/16079/35105_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+TFAP2C,http://www.proteinatlas.org/images/16079/35105_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+TFAP2C,http://www.proteinatlas.org/images/55179/130417_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+TFAP2C,http://www.proteinatlas.org/images/55179/130417_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+SULT2B1,http://www.proteinatlas.org/images/33013/70985_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+SULT2B1,http://www.proteinatlas.org/images/33013/70985_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+SULT2B1,http://www.proteinatlas.org/images/41724/110423_B_7_1.jpg,fibroblasts: Weak: keratinocytes: Strong: Langerhans: Strong: melanocytes: Moderate,Epidermis/Dermis
+SULT2B1,http://www.proteinatlas.org/images/41724/110423_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+SULT2B1,http://www.proteinatlas.org/images/43539/110438_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+SULT2B1,http://www.proteinatlas.org/images/43539/110438_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+TMEM40,http://www.proteinatlas.org/images/44165/97658_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+TMEM40,http://www.proteinatlas.org/images/44165/97658_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+ITGA6,http://www.proteinatlas.org/images/9009/25261_B_7_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,DEJ
+ITGA6,http://www.proteinatlas.org/images/9009/25261_B_5_8.jpg,epidermal cells: Moderate,DEJ
+ITGA6,http://www.proteinatlas.org/images/12696/39935_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,DEJ
+ITGA6,http://www.proteinatlas.org/images/12696/39935_B_5_8.jpg,epidermal cells: Moderate,DEJ
+ITGA6,http://www.proteinatlas.org/images/27582/59858_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,DEJ
+ITGA6,http://www.proteinatlas.org/images/27582/59858_B_6_8.jpg,epidermal cells: Weak,DEJ
+TGM1,http://www.proteinatlas.org/images/15159/152744_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Weak: melanocytes: Negative,Epidermis
+TGM1,http://www.proteinatlas.org/images/15159/152744_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+TGM1,http://www.proteinatlas.org/images/40171/152711_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis
+TGM1,http://www.proteinatlas.org/images/40171/152711_B_4_8.jpg,epidermal cells: Negative,Epidermis
+KRT31,http://www.proteinatlas.org/images/49550/116430_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+KRT31,http://www.proteinatlas.org/images/49550/116430_B_6_8.jpg,epidermal cells: Weak,Epidermis
+KRT31,http://www.proteinatlas.org/images/55194/132827_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+KRT31,http://www.proteinatlas.org/images/55194/132827_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+PTGS1,http://www.proteinatlas.org/images/20315/45242_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+PTGS1,http://www.proteinatlas.org/images/20315/45242_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+PTGS1,http://www.proteinatlas.org/images/2834/8020_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Moderate,Epidermis/Dermis
+DSP,http://www.proteinatlas.org/images/37324/70857_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Weak,Epidermis 
+DSP,http://www.proteinatlas.org/images/37324/70857_B_6_8.jpg,epidermal cells: Weak,Epidermis 
+DSP,http://www.proteinatlas.org/images/45840/136491_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis 
+DSP,http://www.proteinatlas.org/images/45840/136491_B_5_8.jpg,epidermal cells: Weak,Epidermis 
+DSP,http://www.proteinatlas.org/images/54950/136422_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis 
+DSP,http://www.proteinatlas.org/images/54950/136422_B_5_8.jpg,epidermal cells: Weak,Epidermis 
+PRODH,http://www.proteinatlas.org/images/20361/105359_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+PRODH,http://www.proteinatlas.org/images/20361/105359_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+PLA2G3,http://www.proteinatlas.org/images/21016/51775_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+PLA2G3,http://www.proteinatlas.org/images/21016/51775_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+PTK6,http://www.proteinatlas.org/images/32952/72456_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+PTK6,http://www.proteinatlas.org/images/32952/72456_B_6_8.jpg,epidermal cells: Strong,Epidermis
+PTK6,http://www.proteinatlas.org/images/36070/69911_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+PTK6,http://www.proteinatlas.org/images/36070/69911_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+PTK6,http://www.proteinatlas.org/images/36071/72662_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis
+PTK6,http://www.proteinatlas.org/images/36071/72662_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+ACSBG1,http://www.proteinatlas.org/images/41642/88213_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Moderate: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+ACSBG1,http://www.proteinatlas.org/images/41642/88213_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+ACSBG1,http://www.proteinatlas.org/images/45955/110483_B_7_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+ACSBG1,http://www.proteinatlas.org/images/45955/110483_B_4_8.jpg,epidermal cells: Negative,Epidermis/Dermis
+OCA2,http://www.proteinatlas.org/images/36403/79995_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+OCA2,http://www.proteinatlas.org/images/36403/79995_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+TGM5,http://www.proteinatlas.org/images/41649/87989_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Weak,Epidermis/Dermis
+TGM5,http://www.proteinatlas.org/images/41649/87989_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+PPP1R13L,http://www.proteinatlas.org/images/5016/16025_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+PPP1R13L,http://www.proteinatlas.org/images/5016/16025_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+PPP1R13L,http://www.proteinatlas.org/images/41231/91523_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Negative,Epidermis/Dermis
+PPP1R13L,http://www.proteinatlas.org/images/41231/91523_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+PPP1R13L,http://www.proteinatlas.org/images/59883/133996_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Strong,Epidermis/Dermis
+PPP1R13L,http://www.proteinatlas.org/images/59883/133996_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+KLC3,http://www.proteinatlas.org/images/52797/120909_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Weak,Epidermis/Dermis
+KLC3,http://www.proteinatlas.org/images/52797/120909_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+KLC3,http://www.proteinatlas.org/images/56508/142487_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+KLC3,http://www.proteinatlas.org/images/56508/142487_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+OLFM2,http://www.proteinatlas.org/images/57771/132424_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+OLFM2,http://www.proteinatlas.org/images/57771/132424_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+EPHX3,http://www.proteinatlas.org/images/12842/62729_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+EPHX3,http://www.proteinatlas.org/images/12842/62729_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+SLC1A6,http://www.proteinatlas.org/images/41505/91982_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+SLC1A6,http://www.proteinatlas.org/images/41505/91982_B_5_8.jpg,epidermal cells: Negative,Epidermis/Dermis
+SLC1A6,http://www.proteinatlas.org/images/44066/114970_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+SLC1A6,http://www.proteinatlas.org/images/44066/114970_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+CNFN,http://www.proteinatlas.org/images/49073/110083_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+CNFN,http://www.proteinatlas.org/images/49073/110083_B_5_8.jpg,epidermal cells: Strong,Epidermis
+DLX5,http://www.proteinatlas.org/images/5670/151713_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+DLX5,http://www.proteinatlas.org/images/5670/151713_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+PTPRZ1,http://www.proteinatlas.org/images/15103/34335_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+PTPRZ1,http://www.proteinatlas.org/images/15103/34335_B_4_8.jpg,epidermal cells: Negative,Epidermis/Dermis
+PTPRZ1,http://www.proteinatlas.org/images/25106/54541_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+PTPRZ1,http://www.proteinatlas.org/images/25106/54541_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+TYRP1,http://www.proteinatlas.org/images/2520/6417_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Strong,Epidermis
+TYRP1,http://www.proteinatlas.org/images/2520/6417_B_4_8.jpg,epidermal cells: Negative,Epidermis
+TYRP1,http://www.proteinatlas.org/images/937/1995_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Strong,Epidermis
+TYRP1,http://www.proteinatlas.org/images/937/1995_B_4_8.jpg,epidermal cells: Weak,Epidermis
+GATA3,http://www.proteinatlas.org/images/16217/140542_B_7_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Negative,Epidermis/Dermis
+GATA3,http://www.proteinatlas.org/images/16217/140542_B_5_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+GATA3,http://www.proteinatlas.org/images/29730/66977_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+GATA3,http://www.proteinatlas.org/images/29730/66977_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+GATA3,http://www.proteinatlas.org/images/29731/69023_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+GATA3,http://www.proteinatlas.org/images/29731/69023_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+KRT23,http://www.proteinatlas.org/images/12050/28709_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+KRT23,http://www.proteinatlas.org/images/12050/28709_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+KRT23,http://www.proteinatlas.org/images/16959/39457_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Moderate,Epidermis/Dermis
+KRT23,http://www.proteinatlas.org/images/16959/39457_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+KRT23,http://www.proteinatlas.org/images/17091/39461_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+COL1A1,http://www.proteinatlas.org/images/8405/32992_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Weak,Dermis/Epidermis
+COL1A1,http://www.proteinatlas.org/images/8405/32992_B_5_8.jpg,epidermal cells: Negative,Dermis/Epidermis
+COL1A1,http://www.proteinatlas.org/images/11795/32976_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Dermis/Epidermis
+COL1A1,http://www.proteinatlas.org/images/11795/32976_B_4_8.jpg,epidermal cells: Weak,Dermis/Epidermis
+ALOX12,http://www.proteinatlas.org/images/10691/27784_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+ALOX12,http://www.proteinatlas.org/images/10691/27784_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+ALOX12,http://www.proteinatlas.org/images/19287/43915_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Weak,Epidermis/Dermis
+ALOX12,http://www.proteinatlas.org/images/19287/43915_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+VTN,http://www.proteinatlas.org/images/16695/39073_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Dermis
+VTN,http://www.proteinatlas.org/images/16695/39073_B_5_8.jpg,epidermal cells: Negative,Dermis
+VTN,http://www.proteinatlas.org/images/16765/39077_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Negative,Dermis
+VTN,http://www.proteinatlas.org/images/16765/39077_B_6_8.jpg,epidermal cells: Moderate,Dermis
+VTN,http://www.proteinatlas.org/images/60933/144158_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Negative,Dermis
+VTN,http://www.proteinatlas.org/images/60933/144158_B_6_8.jpg,epidermal cells: Negative,Dermis
+FOXN1,http://www.proteinatlas.org/images/41520/87216_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+FOXN1,http://www.proteinatlas.org/images/41520/87216_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+SULT1E1,http://www.proteinatlas.org/images/28213/61200_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis
+SULT1E1,http://www.proteinatlas.org/images/28213/61200_B_4_8.jpg,epidermal cells: Weak,Epidermis
+SULT1E1,http://www.proteinatlas.org/images/28728/61319_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Moderate,Epidermis
+SULT1E1,http://www.proteinatlas.org/images/28728/61319_B_6_8.jpg,epidermal cells: Strong,Epidermis
+SULT1E1,http://www.proteinatlas.org/images/47344/106627_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis
+SULT1E1,http://www.proteinatlas.org/images/47344/106627_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+NMU,http://www.proteinatlas.org/images/25926/56933_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Negative: melanocytes: Strong,Epidermis/Dermis
+NMU,http://www.proteinatlas.org/images/25926/56933_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+PVRL1,http://www.proteinatlas.org/images/16135/35545_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+PVRL1,http://www.proteinatlas.org/images/16135/35545_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+PVRL1,http://www.proteinatlas.org/images/26846/57728_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+PVRL1,http://www.proteinatlas.org/images/26846/57728_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+ELMOD1,http://www.proteinatlas.org/images/38434/87901_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Strong,Epidermis/Dermis
+ELMOD1,http://www.proteinatlas.org/images/38434/87901_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+ELMOD1,http://www.proteinatlas.org/images/38435/87897_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+ELMOD1,http://www.proteinatlas.org/images/38435/87897_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+EXPH5,http://www.proteinatlas.org/images/37840/81313_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Negative: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+EXPH5,http://www.proteinatlas.org/images/37840/81313_B_6_8.jpg,epidermal cells: Negative,Epidermis/Dermis
+ENDOU,http://www.proteinatlas.org/images/12388/28769_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+ENDOU,http://www.proteinatlas.org/images/12388/28769_B_5_8.jpg,epidermal cells: Strong,Epidermis
+COL12A1,http://www.proteinatlas.org/images/9143/24555_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Dermis/DEJ
+COL12A1,http://www.proteinatlas.org/images/9143/24555_B_4_8.jpg,epidermal cells: Negative,Dermis/DEJ
+PERP,http://www.proteinatlas.org/images/22269/51287_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+PERP,http://www.proteinatlas.org/images/22269/51287_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+UNC93A,http://www.proteinatlas.org/images/35729/83582_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+UNC93A,http://www.proteinatlas.org/images/35729/83582_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+SPARC,http://www.proteinatlas.org/images/2306/6036_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Dermis/DEJ
+SPARC,http://www.proteinatlas.org/images/2306/6036_B_4_8.jpg,epidermal cells: Strong,Dermis/DEJ
+SPARC,http://www.proteinatlas.org/images/2989/9780_B_7_1.jpg,fibroblasts: Strong: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Dermis/DEJ
+SPARC,http://www.proteinatlas.org/images/2989/9780_B_4_8.jpg,epidermal cells: Negative,Dermis/DEJ
+SPARC,http://www.proteinatlas.org/images/3020/9784_B_7_1.jpg,fibroblasts: Strong: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Dermis/DEJ
+SPARC,http://www.proteinatlas.org/images/3020/9784_B_4_8.jpg,epidermal cells: Moderate,Dermis/DEJ
+COL7A1,http://www.proteinatlas.org/images/16357/148737_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Weak,DEJ
+COL7A1,http://www.proteinatlas.org/images/16357/148737_B_6_8.jpg,epidermal cells: Negative,DEJ
+COL7A1,http://www.proteinatlas.org/images/42420/147876_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,DEJ
+COL7A1,http://www.proteinatlas.org/images/42420/147876_B_6_8.jpg,epidermal cells: Negative,DEJ
+FN1,http://www.proteinatlas.org/images/126/2077_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis/DEJ
+FN1,http://www.proteinatlas.org/images/126/2077_B_6_8.jpg,epidermal cells: Weak,Dermis/DEJ
+FN1,http://www.proteinatlas.org/images/27066/56871_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis/DEJ
+FN1,http://www.proteinatlas.org/images/27066/56871_B_5_8.jpg,epidermal cells: Weak,Dermis/DEJ
+OTX1,http://www.proteinatlas.org/images/52122/122679_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+OTX1,http://www.proteinatlas.org/images/52122/122679_B_6_8.jpg,epidermal cells: Strong,Epidermis
+IL1RL2,http://www.proteinatlas.org/images/15485/40830_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+IL1RL2,http://www.proteinatlas.org/images/15485/40830_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+CD207,http://www.proteinatlas.org/images/2222/5870_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Strong: melanocytes: Negative,Epidermis/Dermis 
+CD207,http://www.proteinatlas.org/images/2222/5870_B_4_8.jpg,epidermal cells: Negative,Epidermis/Dermis 
+CD207,http://www.proteinatlas.org/images/11216/27981_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Negative: Langerhans: Strong: melanocytes: Negative,Epidermis/Dermis 
+CD207,http://www.proteinatlas.org/images/11216/27981_B_5_8.jpg,epidermal cells: Negative,Epidermis/Dermis 
+MFAP2,http://www.proteinatlas.org/images/7354/155445_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+MFAP2,http://www.proteinatlas.org/images/7354/155445_B_6_8.jpg,epidermal cells: Negative,Dermis
+SPP1,http://www.proteinatlas.org/images/2212/6040_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+SPP1,http://www.proteinatlas.org/images/2212/6040_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+SPP1,http://www.proteinatlas.org/images/27541/64396_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+SPP1,http://www.proteinatlas.org/images/27541/64396_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+SLC46A2,http://www.proteinatlas.org/images/20098/155369_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+SLC46A2,http://www.proteinatlas.org/images/20098/155369_B_6_8.jpg,epidermal cells: Negative,Epidermis
+MLANA,http://www.proteinatlas.org/images/57/155161_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Strong,Epidermis
+MLANA,http://www.proteinatlas.org/images/57/155161_B_4_8.jpg,epidermal cells: Negative,Epidermis
+MLANA,http://www.proteinatlas.org/images/48662/125091_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Strong,Epidermis
+MLANA,http://www.proteinatlas.org/images/48662/125091_B_5_8.jpg,epidermal cells: Strong,Epidermis
+TP53AIP1,http://www.proteinatlas.org/images/44300/105457_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+TP53AIP1,http://www.proteinatlas.org/images/44300/105457_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+TP53AIP1,http://www.proteinatlas.org/images/48797/145443_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+TP53AIP1,http://www.proteinatlas.org/images/48797/145443_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+HOXC11,http://www.proteinatlas.org/images/38291/80248_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Moderate,Epidermis
+HOXC11,http://www.proteinatlas.org/images/38291/80248_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+ARHGAP40,http://www.proteinatlas.org/images/42636/94677_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+ARHGAP40,http://www.proteinatlas.org/images/42636/94677_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+ARHGAP40,http://www.proteinatlas.org/images/42840/94683_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis/Dermis
+ARHGAP40,http://www.proteinatlas.org/images/42840/94683_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+XG,http://www.proteinatlas.org/images/21539/49166_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+XG,http://www.proteinatlas.org/images/21539/49166_B_5_8.jpg,epidermal cells: Strong,Epidermis
+POF1B,http://www.proteinatlas.org/images/2033/6072_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Weak,Epidermis
+POF1B,http://www.proteinatlas.org/images/2033/6072_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+LYPD3,http://www.proteinatlas.org/images/41529/88166_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+LYPD3,http://www.proteinatlas.org/images/41529/88166_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+LYPD3,http://www.proteinatlas.org/images/41797/88184_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+LYPD3,http://www.proteinatlas.org/images/41797/88184_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+IL37,http://www.proteinatlas.org/images/54371/133108_B_8_1.jpg,fibroblasts: Strong: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+IL37,http://www.proteinatlas.org/images/54371/133108_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+IL37,http://www.proteinatlas.org/images/57950/133107_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+IL37,http://www.proteinatlas.org/images/57950/133107_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+TGM3,http://www.proteinatlas.org/images/4728/142446_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+TGM3,http://www.proteinatlas.org/images/4728/142446_B_6_8.jpg,epidermal cells: Weak,Epidermis
+FAM83C,http://www.proteinatlas.org/images/34227/72572_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+FAM83C,http://www.proteinatlas.org/images/34227/72572_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+FAM83C,http://www.proteinatlas.org/images/49978/129937_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+FAM83C,http://www.proteinatlas.org/images/49978/129937_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+SLURP1,http://www.proteinatlas.org/images/50967/114775_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+SLURP1,http://www.proteinatlas.org/images/50967/114775_B_6_8.jpg,epidermal cells: Weak,Epidermis
+BCL11B,http://www.proteinatlas.org/images/49117/110540_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+BCL11B,http://www.proteinatlas.org/images/49117/110540_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+TNFRSF19,http://www.proteinatlas.org/images/10135/26015_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+TNFRSF19,http://www.proteinatlas.org/images/10135/26015_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+CPA4,http://www.proteinatlas.org/images/21030/47417_B_8_1.jpg,fibroblasts: Strong: keratinocytes: Weak: Langerhans: Weak: melanocytes: Strong,Epidermis/Dermis
+CPA4,http://www.proteinatlas.org/images/21030/47417_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+LOXL1,http://www.proteinatlas.org/images/42111/89940_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,DEJ
+LOXL1,http://www.proteinatlas.org/images/42111/89940_B_5_8.jpg,epidermal cells: Strong,DEJ
+SOX15,http://www.proteinatlas.org/images/67196/151781_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+SOX15,http://www.proteinatlas.org/images/67196/151781_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+KLK14,http://www.proteinatlas.org/images/26228/56184_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis
+KLK14,http://www.proteinatlas.org/images/26228/56184_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+KLK8,http://www.proteinatlas.org/images/35761/128006_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis 
+KLK8,http://www.proteinatlas.org/images/35761/128006_B_5_8.jpg,epidermal cells: Strong,Epidermis 
+AJUBA,http://www.proteinatlas.org/images/6171/18067_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Moderate,Epidermis/Dermis
+AJUBA,http://www.proteinatlas.org/images/6171/18067_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+GDPD2,http://www.proteinatlas.org/images/45026/100031_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+COL5A1,http://www.proteinatlas.org/images/30769/128064_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+COL5A1,http://www.proteinatlas.org/images/30769/128064_B_6_8.jpg,epidermal cells: Weak,Dermis
+EPS8L1,http://www.proteinatlas.org/images/41851/88508_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+EPS8L1,http://www.proteinatlas.org/images/41851/88508_B_6_8.jpg,epidermal cells: Strong,Epidermis
+EPS8L1,http://www.proteinatlas.org/images/43545/107099_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+EPS8L1,http://www.proteinatlas.org/images/43545/107099_B_6_8.jpg,epidermal cells: Strong,Epidermis
+TNS4,http://www.proteinatlas.org/images/21913/49237_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+TNS4,http://www.proteinatlas.org/images/21913/49237_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+ABHD12B,http://www.proteinatlas.org/images/2873/8380_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+SLC52A1,http://www.proteinatlas.org/images/11449/26965_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+SLC52A1,http://www.proteinatlas.org/images/11449/26965_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+RHBG,http://www.proteinatlas.org/images/48489/114588_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+RHBG,http://www.proteinatlas.org/images/48489/114588_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+ALDH3B2,http://www.proteinatlas.org/images/45132/98200_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Dermis
+ALDH3B2,http://www.proteinatlas.org/images/45132/98200_B_4_8.jpg,epidermal cells: Weak,Dermis
+POSTN,http://www.proteinatlas.org/images/12306/29397_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Negative: melanocytes: Weak,Dermis
+POSTN,http://www.proteinatlas.org/images/12306/29397_B_6_8.jpg,epidermal cells: Weak,Dermis
+SPINK5,http://www.proteinatlas.org/images/9067/24813_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+SPINK5,http://www.proteinatlas.org/images/9067/24813_B_4_8.jpg,epidermal cells: Strong,Epidermis
+SPINK5,http://www.proteinatlas.org/images/11351/28178_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+SPINK5,http://www.proteinatlas.org/images/11351/28178_B_6_8.jpg,epidermal cells: Strong,Epidermis
+SPINK5,http://www.proteinatlas.org/images/15347/34557_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+SPINK5,http://www.proteinatlas.org/images/15347/34557_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+MICALCL,http://www.proteinatlas.org/images/39895/85241_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Strong: melanocytes: Moderate,Epidermis/Dermis
+MICALCL,http://www.proteinatlas.org/images/39895/85241_B_5_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+MICALCL,http://www.proteinatlas.org/images/40438/85245_B_7_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+MICALCL,http://www.proteinatlas.org/images/40438/85245_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+LOXL2,http://www.proteinatlas.org/images/25848/56663_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/DEJ/Dermis
+LOXL2,http://www.proteinatlas.org/images/25848/56663_B_4_8.jpg,epidermal cells: Weak,Epidermis/DEJ/Dermis
+TRPM1,http://www.proteinatlas.org/images/14785/34062_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+TRPM1,http://www.proteinatlas.org/images/14785/34062_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+GRHL1,http://www.proteinatlas.org/images/5798/20397_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+GRHL1,http://www.proteinatlas.org/images/6420/20393_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+GRHL1,http://www.proteinatlas.org/images/6420/20393_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+LRP4,http://www.proteinatlas.org/images/11934/30002_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+LRP4,http://www.proteinatlas.org/images/11934/30002_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+LRP4,http://www.proteinatlas.org/images/12300/30004_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Weak: melanocytes: Strong,Epidermis/Dermis
+LRP4,http://www.proteinatlas.org/images/12300/30004_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+DSC2,http://www.proteinatlas.org/images/11911/28198_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+DSC2,http://www.proteinatlas.org/images/11911/28198_B_6_8.jpg,epidermal cells: Strong,Epidermis
+DSC2,http://www.proteinatlas.org/images/12615/28214_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+DSC2,http://www.proteinatlas.org/images/12615/28214_B_6_8.jpg,epidermal cells: Strong,Epidermis
+DSG3,http://www.proteinatlas.org/images/46864/148892_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+DSG3,http://www.proteinatlas.org/images/46864/148892_B_4_8.jpg,epidermal cells: Weak,Epidermis
+DSG3,http://www.proteinatlas.org/images/56863/148897_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Weak: melanocytes: Negative,Epidermis
+DSG3,http://www.proteinatlas.org/images/56863/148897_B_4_8.jpg,epidermal cells: Weak,Epidermis
+DSG3,http://www.proteinatlas.org/images/69880/150051_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis
+DSG3,http://www.proteinatlas.org/images/69880/150051_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+DSG1,http://www.proteinatlas.org/images/9394/31160_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Strong: Langerhans: Strong: melanocytes: Negative,Epidermis
+DSG1,http://www.proteinatlas.org/images/9394/31160_B_6_8.jpg,epidermal cells: Strong,Epidermis
+DSG1,http://www.proteinatlas.org/images/22128/51593_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Weak,Epidermis
+DSG1,http://www.proteinatlas.org/images/22128/51593_B_6_8.jpg,epidermal cells: Strong,Epidermis
+DSC3,http://www.proteinatlas.org/images/37328/71216_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Negative,Epidermis 
+DSC3,http://www.proteinatlas.org/images/37328/71216_B_6_8.jpg,epidermal cells: Strong,Epidermis 
+DSC3,http://www.proteinatlas.org/images/49265/130979_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis 
+DSC3,http://www.proteinatlas.org/images/49265/130979_B_6_8.jpg,epidermal cells: Strong,Epidermis 
+DSC1,http://www.proteinatlas.org/images/12891/30706_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+COL4A2,http://www.proteinatlas.org/images/10751/28521_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis/DEJ
+COL4A2,http://www.proteinatlas.org/images/10751/28521_B_6_8.jpg,epidermal cells: Negative,Dermis/DEJ
+PAX3,http://www.proteinatlas.org/images/63659/142890_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+PAX3,http://www.proteinatlas.org/images/63659/142890_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+ARHGEF4,http://www.proteinatlas.org/images/18267/42388_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis
+ARHGEF4,http://www.proteinatlas.org/images/18267/42388_B_6_8.jpg,epidermal cells: Weak,Epidermis
+SCEL,http://www.proteinatlas.org/images/39737/89093_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+SCEL,http://www.proteinatlas.org/images/39737/89093_B_4_8.jpg,epidermal cells: Strong,Epidermis
+SCEL,http://www.proteinatlas.org/images/40154/89097_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Weak,Epidermis
+SCEL,http://www.proteinatlas.org/images/40154/89097_B_4_8.jpg,epidermal cells: Strong,Epidermis
+IL36RN,http://www.proteinatlas.org/images/34542/70588_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Weak,Epidermis/Dermis
+IL36RN,http://www.proteinatlas.org/images/34542/70588_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+IL1F10,http://www.proteinatlas.org/images/59813/135078_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+IL1F10,http://www.proteinatlas.org/images/59813/135078_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+CTSV,http://www.proteinatlas.org/images/17112/37877_B_8_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+CTSV,http://www.proteinatlas.org/images/17112/37877_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+TFAP2A,http://www.proteinatlas.org/images/326/1204_B_7_1.jpg,keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis
+TFAP2A,http://www.proteinatlas.org/images/326/1204_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+TFAP2A,http://www.proteinatlas.org/images/28850/62020_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis
+TFAP2A,http://www.proteinatlas.org/images/28850/62020_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+TFAP2A,http://www.proteinatlas.org/images/56871/143496_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Strong,Epidermis
+TFAP2A,http://www.proteinatlas.org/images/56871/143496_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+TRIM29,http://www.proteinatlas.org/images/20053/46556_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Strong,Epidermis
+TRIM29,http://www.proteinatlas.org/images/20053/46556_B_5_8.jpg,epidermal cells: Strong,Epidermis
+POU2F3,http://www.proteinatlas.org/images/19652/142533_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+POU2F3,http://www.proteinatlas.org/images/19652/142533_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+THBS1,http://www.proteinatlas.org/images/33678/85103_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+THBS1,http://www.proteinatlas.org/images/33678/85103_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+BCL2L10,http://www.proteinatlas.org/images/42222/91975_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+BCL2L10,http://www.proteinatlas.org/images/42222/91975_B_5_8.jpg,epidermal cells: Negative,Epidermis/Dermis
+CLCA2,http://www.proteinatlas.org/images/47192/107657_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Moderate,Epidermis
+CLCA2,http://www.proteinatlas.org/images/47192/107657_B_4_8.jpg,epidermal cells: Strong,Epidermis
+EMILIN1,http://www.proteinatlas.org/images/2822/8297_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermal
+EMILIN1,http://www.proteinatlas.org/images/2822/8297_B_4_8.jpg,epidermal cells: Negative,Dermal
+FBN2,http://www.proteinatlas.org/images/12853/30166_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+FBN2,http://www.proteinatlas.org/images/12853/30166_B_5_8.jpg,epidermal cells: Negative,Epidermis
+FBN2,http://www.proteinatlas.org/images/26401/57890_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Weak,Epidermis
+FBN2,http://www.proteinatlas.org/images/26401/57890_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+TMEM132B,http://www.proteinatlas.org/images/35661/74890_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+TMEM132B,http://www.proteinatlas.org/images/35661/74890_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+TMEM132B,http://www.proteinatlas.org/images/35662/74772_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+TMEM132B,http://www.proteinatlas.org/images/35662/74772_B_5_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+FBLN5,http://www.proteinatlas.org/images/848/13378_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Dermis
+FBLN5,http://www.proteinatlas.org/images/848/13378_B_4_8.jpg,epidermal cells: Negative,Dermis
+FBLN5,http://www.proteinatlas.org/images/25843/59409_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Dermis
+FBLN5,http://www.proteinatlas.org/images/25843/59409_B_6_8.jpg,epidermal cells: Moderate,Dermis
+FBLN5,http://www.proteinatlas.org/images/868/1813_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+DUOXA1,http://www.proteinatlas.org/images/41578/87814_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+DUOXA1,http://www.proteinatlas.org/images/41578/87814_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+MFAP1,http://www.proteinatlas.org/images/42370/94238_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+MFAP1,http://www.proteinatlas.org/images/42370/94238_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+CARD14,http://www.proteinatlas.org/images/22533/51616_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+CARD14,http://www.proteinatlas.org/images/22533/51616_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+CARD14,http://www.proteinatlas.org/images/23388/51635_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+CARD14,http://www.proteinatlas.org/images/23388/51635_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+ZNF750,http://www.proteinatlas.org/images/21573/50403_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+ZNF750,http://www.proteinatlas.org/images/21573/50403_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+ZNF750,http://www.proteinatlas.org/images/23012/50399_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Moderate,Epidermis/Dermis
+ZNF750,http://www.proteinatlas.org/images/23012/50399_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+COL6A1,http://www.proteinatlas.org/images/19142/43804_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+COL6A1,http://www.proteinatlas.org/images/19142/43804_B_6_8.jpg,epidermal cells: Negative,Dermis
+COL6A1,http://www.proteinatlas.org/images/29401/63449_B_9_1.jpg,keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+COL6A1,http://www.proteinatlas.org/images/29401/63449_B_5_8.jpg,epidermal cells: Negative,Dermis
+COL6A2,http://www.proteinatlas.org/images/7029/18983_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Weak: Langerhans: Negative: melanocytes: Weak,Dermis
+COL6A2,http://www.proteinatlas.org/images/7029/18983_B_4_8.jpg,epidermal cells: Strong,Dermis
+HSPG2,http://www.proteinatlas.org/images/9820/32610_B_4_8.jpg,epidermal cells: Weak,Dermis/DEJ
+HSPG2,http://www.proteinatlas.org/images/20718/54360_B_7_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Dermis/DEJ
+HSPG2,http://www.proteinatlas.org/images/20718/54360_B_6_8.jpg,epidermal cells: Weak,Dermis/DEJ
+HSPG2,http://www.proteinatlas.org/images/18892/42113_B_7_1.jpg,fibroblasts: Weak: keratinocytes: Negative: Langerhans: Negative: melanocytes: Weak,Dermis/DEJ
+HSPG2,http://www.proteinatlas.org/images/18892/42113_B_6_8.jpg,epidermal cells: Moderate,Dermis/DEJ
+CELSR2,http://www.proteinatlas.org/images/13952/32692_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Strong: melanocytes: Negative,Epidermis/Dermis
+CELSR2,http://www.proteinatlas.org/images/13952/32692_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+PVRL4,http://www.proteinatlas.org/images/10775/27075_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+PVRL4,http://www.proteinatlas.org/images/10775/27075_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+TUFT1,http://www.proteinatlas.org/images/54301/142671_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+TUFT1,http://www.proteinatlas.org/images/54301/142671_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+TUFT1,http://www.proteinatlas.org/images/28112/60671_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+TUFT1,http://www.proteinatlas.org/images/28112/60671_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+FLG2,http://www.proteinatlas.org/images/28699/59644_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+FLG2,http://www.proteinatlas.org/images/28699/59644_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+S100A7,http://www.proteinatlas.org/images/1453/4350_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis 
+S100A7,http://www.proteinatlas.org/images/1453/4350_B_5_8.jpg,epidermal cells: Strong,Epidermis 
+S100A7,http://www.proteinatlas.org/images/6997/18562_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Weak: melanocytes: Weak,Epidermis 
+S100A7,http://www.proteinatlas.org/images/6997/18562_B_4_8.jpg,epidermal cells: Strong,Epidermis 
+S100A7,http://www.proteinatlas.org/images/33766/101284_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Weak,Epidermis 
+S100A7,http://www.proteinatlas.org/images/33766/101284_B_4_8.jpg,epidermal cells: Strong,Epidermis 
+EFNA3,http://www.proteinatlas.org/images/10494/31026_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+EFNA3,http://www.proteinatlas.org/images/10494/31026_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+FLG,http://www.proteinatlas.org/images/2210/5866_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis
+FLG,http://www.proteinatlas.org/images/2210/5866_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+FLG,http://www.proteinatlas.org/images/30188/65054_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Weak: melanocytes: Moderate,Epidermis
+FLG,http://www.proteinatlas.org/images/30188/65054_B_6_8.jpg,epidermal cells: Strong,Epidermis
+FLG,http://www.proteinatlas.org/images/30189/65082_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Moderate,Epidermis
+FLG,http://www.proteinatlas.org/images/30189/65082_B_6_8.jpg,epidermal cells: Strong,Epidermis
+ATP6V1C2,http://www.proteinatlas.org/images/34734/75432_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+ATP6V1C2,http://www.proteinatlas.org/images/34734/75432_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+ATP6V1C2,http://www.proteinatlas.org/images/34735/75438_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+ATP6V1C2,http://www.proteinatlas.org/images/34735/75438_B_5_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+COL8A1,http://www.proteinatlas.org/images/53107/121064_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Strong: melanocytes: Negative,Dermis
+COL8A1,http://www.proteinatlas.org/images/53107/121064_B_5_8.jpg,epidermal cells: Weak,Dermis
+SLC10A6,http://www.proteinatlas.org/images/16662/37499_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+SLC10A6,http://www.proteinatlas.org/images/16662/37499_B_6_8.jpg,epidermal cells: Strong,Epidermis
+CXCL14,http://www.proteinatlas.org/images/29996/61933_B_7_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+CXCL14,http://www.proteinatlas.org/images/29996/61933_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+TRIM7,http://www.proteinatlas.org/images/39213/86416_B_8_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+TRIM7,http://www.proteinatlas.org/images/39213/86416_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+GSDMC,http://www.proteinatlas.org/images/26317/147458_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+GSDMC,http://www.proteinatlas.org/images/26317/147458_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+CDHR1,http://www.proteinatlas.org/images/36819/77686_B_7_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Dermis 
+CDHR1,http://www.proteinatlas.org/images/36819/77686_B_5_8.jpg,epidermal cells: Weak,Dermis 
+CDHR1,http://www.proteinatlas.org/images/36820/77935_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Dermis 
+CDHR1,http://www.proteinatlas.org/images/36820/77935_B_5_8.jpg,epidermal cells: Negative,Dermis 
+PLCH2,http://www.proteinatlas.org/images/3346/9696_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+PLCH2,http://www.proteinatlas.org/images/3346/9696_B_5_8.jpg,epidermal cells: Negative,Dermis
+CDH22,http://www.proteinatlas.org/images/12164/29621_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+CDH22,http://www.proteinatlas.org/images/12164/29621_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+LYPD6B,http://www.proteinatlas.org/images/49239/111635_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis
+LYPD6B,http://www.proteinatlas.org/images/49239/111635_B_6_8.jpg,epidermal cells: Weak,Epidermis
+DST,http://www.proteinatlas.org/images/30200/64146_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Negative: melanocytes: Weak,Dermis/DEJ
+DST,http://www.proteinatlas.org/images/30200/64146_B_6_8.jpg,epidermal cells: Weak,Dermis/DEJ
+GPR115,http://www.proteinatlas.org/images/7158/22347_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Strong,Epidermis/Dermis
+GPR115,http://www.proteinatlas.org/images/7158/22347_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+CERS3,http://www.proteinatlas.org/images/6092/17417_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+CERS3,http://www.proteinatlas.org/images/6092/17417_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+CERS3,http://www.proteinatlas.org/images/24356/53927_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+CERS3,http://www.proteinatlas.org/images/24356/53927_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+APCDD1,http://www.proteinatlas.org/images/14468/32643_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+APCDD1,http://www.proteinatlas.org/images/14468/32643_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+PROM2,http://www.proteinatlas.org/images/46005/111141_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Negative,Epidermis/Dermis
+PROM2,http://www.proteinatlas.org/images/46005/111141_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+PROM2,http://www.proteinatlas.org/images/63728/141518_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Weak,Epidermis/Dermis
+PROM2,http://www.proteinatlas.org/images/63728/141518_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+GOLGA7B,http://www.proteinatlas.org/images/46878/118243_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+GOLGA7B,http://www.proteinatlas.org/images/46878/118243_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+IL34,http://www.proteinatlas.org/images/55971/131184_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+IL34,http://www.proteinatlas.org/images/55971/131184_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+ESYT3,http://www.proteinatlas.org/images/39200/87633_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+ESYT3,http://www.proteinatlas.org/images/39200/87633_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+CD1A,http://www.proteinatlas.org/images/9/1858_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Negative: Langerhans: Strong: melanocytes: Negative,Epidermis/Dermis
+CD1A,http://www.proteinatlas.org/images/9/1858_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+CD1A,http://www.proteinatlas.org/images/10734/26565_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Strong: melanocytes: Negative,Epidermis/Dermis
+CD1A,http://www.proteinatlas.org/images/10734/26565_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+LAD1,http://www.proteinatlas.org/images/7256/49730_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis/DEJ
+LAD1,http://www.proteinatlas.org/images/7256/49730_B_6_8.jpg,epidermal cells: Moderate,Epidermis/DEJ
+LAD1,http://www.proteinatlas.org/images/28732/61037_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/DEJ
+LAD1,http://www.proteinatlas.org/images/28732/61037_B_5_8.jpg,epidermal cells: Moderate,Epidermis/DEJ
+TCHH,http://www.proteinatlas.org/images/28375/61898_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+TCHH,http://www.proteinatlas.org/images/28375/61898_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+LYPD5,http://www.proteinatlas.org/images/42511/92762_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis
+LYPD5,http://www.proteinatlas.org/images/42511/92762_B_4_8.jpg,epidermal cells: Negative,Epidermis
+LYPD5,http://www.proteinatlas.org/images/54670/143702_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Weak: melanocytes: Moderate,Epidermis
+LYPD5,http://www.proteinatlas.org/images/54670/143702_B_6_8.jpg,epidermal cells: Weak,Epidermis
+DMKN,http://www.proteinatlas.org/images/29406/68094_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis
+DMKN,http://www.proteinatlas.org/images/29406/68094_B_5_8.jpg,epidermal cells: Strong,Epidermis
+WNT4,http://www.proteinatlas.org/images/11397/28629_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+WNT4,http://www.proteinatlas.org/images/11397/28629_B_6_8.jpg,epidermal cells: Negative,Epidermis
+MEGF6,http://www.proteinatlas.org/images/52129/120414_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+MEGF6,http://www.proteinatlas.org/images/52129/120414_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+EN1,http://www.proteinatlas.org/images/14884/36656_B_7_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+EN1,http://www.proteinatlas.org/images/14884/36656_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+BNIPL,http://www.proteinatlas.org/images/19946/45531_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+BNIPL,http://www.proteinatlas.org/images/19946/45531_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+BNIPL,http://www.proteinatlas.org/images/23464/51522_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+BNIPL,http://www.proteinatlas.org/images/23464/51522_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+S100A11,http://www.proteinatlas.org/images/34320/76806_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+S100A11,http://www.proteinatlas.org/images/42745/106098_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+S100A11,http://www.proteinatlas.org/images/42745/106098_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+IVL,http://www.proteinatlas.org/images/2243/6008_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis 
+IVL,http://www.proteinatlas.org/images/2243/6008_B_4_8.jpg,epidermal cells: Strong,Epidermis 
+IVL,http://www.proteinatlas.org/images/55211/139492_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis 
+IVL,http://www.proteinatlas.org/images/55211/139492_B_6_8.jpg,epidermal cells: Strong,Epidermis 
+PGLYRP4,http://www.proteinatlas.org/images/25879/54778_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis/Dermis
+PGLYRP4,http://www.proteinatlas.org/images/25879/54778_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+DAPL1,http://www.proteinatlas.org/images/46937/107094_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+DAPL1,http://www.proteinatlas.org/images/46937/107094_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+CLDN1,http://www.proteinatlas.org/images/2602/6427_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis
+CLDN1,http://www.proteinatlas.org/images/2602/6427_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+CLDN1,http://www.proteinatlas.org/images/48319/122918_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Negative,Epidermis
+CLDN1,http://www.proteinatlas.org/images/48319/122918_B_5_8.jpg,epidermal cells: Strong,Epidermis
+DCST1,http://www.proteinatlas.org/images/60314/134117_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+DCST1,http://www.proteinatlas.org/images/60314/134117_B_6_8.jpg,epidermal cells: Strong,Epidermis
+FBLN2,http://www.proteinatlas.org/images/1934/8774_B_7_1.jpg,fibroblasts: Strong: keratinocytes: Negative: Langerhans: Negative: melanocytes: Moderate,Dermis
+FBLN2,http://www.proteinatlas.org/images/1934/8774_B_4_8.jpg,epidermal cells: Negative,Dermis
+FBLN2,http://www.proteinatlas.org/images/18622/42687_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+FBLN2,http://www.proteinatlas.org/images/18622/42687_B_5_8.jpg,epidermal cells: Negative,Dermis
+MST1R,http://www.proteinatlas.org/images/7657/22747_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+MST1R,http://www.proteinatlas.org/images/8180/22751_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Strong: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+MST1R,http://www.proteinatlas.org/images/8972/24167_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+MST1R,http://www.proteinatlas.org/images/8972/24167_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+GPR111,http://www.proteinatlas.org/images/35507/72335_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+GPR111,http://www.proteinatlas.org/images/35507/72335_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+RAET1E,http://www.proteinatlas.org/images/54022/121432_B_8_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+RAET1E,http://www.proteinatlas.org/images/54022/121432_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+COL1A2,http://www.proteinatlas.org/images/32650/106420_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Dermis/Epidermis
+COL1A2,http://www.proteinatlas.org/images/32650/106420_B_6_8.jpg,epidermal cells: Moderate,Dermis/Epidermis
+TRPV6,http://www.proteinatlas.org/images/62864/140539_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Negative: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+TRPV6,http://www.proteinatlas.org/images/62864/140539_B_5_8.jpg,epidermal cells: Negative,Epidermis/Dermis
+SLC39A2,http://www.proteinatlas.org/images/30489/63421_B_9_1.jpg,keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+SLC39A2,http://www.proteinatlas.org/images/30489/63421_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+RNASE7,http://www.proteinatlas.org/images/5690/155631_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+RNASE7,http://www.proteinatlas.org/images/5690/155631_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+RNASE7,http://www.proteinatlas.org/images/62560/144676_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+RNASE7,http://www.proteinatlas.org/images/62560/144676_B_6_8.jpg,epidermal cells: Strong,Epidermis
+RNASE7,http://www.proteinatlas.org/images/68225/152326_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+RNASE7,http://www.proteinatlas.org/images/68225/152326_B_4_8.jpg,epidermal cells: Strong,Epidermis
+FBN1,http://www.proteinatlas.org/images/2670/6615_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+FBN1,http://www.proteinatlas.org/images/2670/6615_B_4_8.jpg,epidermal cells: Negative,Dermis
+FBN1,http://www.proteinatlas.org/images/17759/40388_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Weak,Dermis
+FBN1,http://www.proteinatlas.org/images/17759/40388_B_5_8.jpg,epidermal cells: Weak,Dermis
+FBN1,http://www.proteinatlas.org/images/21057/155709_B_8_1.jpg,fibroblasts: Strong: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+FBN1,http://www.proteinatlas.org/images/21057/155709_B_6_8.jpg,epidermal cells: Negative,Dermis
+FBN1,http://www.proteinatlas.org/images/58696/126116_B_8_1.jpg,fibroblasts: Strong: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+FBN1,http://www.proteinatlas.org/images/58696/126116_B_4_8.jpg,epidermal cells: Negative,Dermis
+FBN1,http://www.proteinatlas.org/images/68188/150625_B_8_1.jpg,fibroblasts: Strong: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+FBN1,http://www.proteinatlas.org/images/68188/150625_B_6_8.jpg,epidermal cells: Negative,Dermis
+SERPINB7,http://www.proteinatlas.org/images/24200/57585_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+SERPINB7,http://www.proteinatlas.org/images/24200/57585_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+SERPINB12,http://www.proteinatlas.org/images/32802/75445_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+SERPINB12,http://www.proteinatlas.org/images/32802/75445_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+PRRX2,http://www.proteinatlas.org/images/26808/59603_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+PRRX2,http://www.proteinatlas.org/images/26808/59603_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+LY6D,http://www.proteinatlas.org/images/24755/58233_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+LY6D,http://www.proteinatlas.org/images/24755/58233_B_5_8.jpg,epidermal cells: Strong,Epidermis
+LY6D,http://www.proteinatlas.org/images/64317/148031_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Strong,Epidermis
+LY6D,http://www.proteinatlas.org/images/64317/148031_B_6_8.jpg,epidermal cells: Strong,Epidermis
+KLK5,http://www.proteinatlas.org/images/14343/32350_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+KLK5,http://www.proteinatlas.org/images/14343/32350_B_5_8.jpg,epidermal cells: Strong,Epidermis
+KLK5,http://www.proteinatlas.org/images/25503/57328_B_6_8.jpg,epidermal cells: Strong,Epidermis
+KLK5,http://www.proteinatlas.org/images/26341/57322_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Strong: Langerhans: Weak: melanocytes: Weak,Epidermis
+KLK5,http://www.proteinatlas.org/images/26341/57322_B_5_8.jpg,epidermal cells: Strong,Epidermis
+KLK11,http://www.proteinatlas.org/images/26340/57892_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+KLK11,http://www.proteinatlas.org/images/26340/57892_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+KRT80,http://www.proteinatlas.org/images/40782/87391_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+KRT80,http://www.proteinatlas.org/images/40782/87391_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+KRT1,http://www.proteinatlas.org/images/2153/5795_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Weak,Epidermis
+KRT1,http://www.proteinatlas.org/images/2153/5795_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+KRT1,http://www.proteinatlas.org/images/17917/42356_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Weak,Epidermis
+KRT1,http://www.proteinatlas.org/images/17917/42356_B_6_8.jpg,epidermal cells: Strong,Epidermis
+KRT1,http://www.proteinatlas.org/images/62908/143894_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Weak: melanocytes: Weak,Epidermis
+KRT1,http://www.proteinatlas.org/images/62908/143894_B_6_8.jpg,epidermal cells: Strong,Epidermis
+ACER1,http://www.proteinatlas.org/images/42506/92725_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+ACER1,http://www.proteinatlas.org/images/42506/92725_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+EVPL,http://www.proteinatlas.org/images/2220/6173_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+EVPL,http://www.proteinatlas.org/images/2220/6173_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+EVPL,http://www.proteinatlas.org/images/53969/140796_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+EVPL,http://www.proteinatlas.org/images/53969/140796_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+GSDMA,http://www.proteinatlas.org/images/23313/155373_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+GSDMA,http://www.proteinatlas.org/images/23313/155373_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+GSDMA,http://www.proteinatlas.org/images/64826/148043_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Strong: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+GSDMA,http://www.proteinatlas.org/images/64826/148043_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+DNASE1L2,http://www.proteinatlas.org/images/44714/99389_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+DNASE1L2,http://www.proteinatlas.org/images/44714/99389_B_5_8.jpg,epidermal cells: Strong,Epidermis
+FAM83B,http://www.proteinatlas.org/images/31464/66135_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Moderate,Epidermis
+FAM83B,http://www.proteinatlas.org/images/31464/66135_B_6_8.jpg,epidermal cells: Strong,Epidermis
+FAM83B,http://www.proteinatlas.org/images/31465/66304_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Weak,Epidermis
+FAM83B,http://www.proteinatlas.org/images/31465/66304_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+TNXB,http://www.proteinatlas.org/images/5373/19091_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Strong: melanocytes: Negative,Epidermis
+TNXB,http://www.proteinatlas.org/images/5373/19091_B_4_8.jpg,epidermal cells: Strong,Epidermis
+PLA2G4F,http://www.proteinatlas.org/images/56752/146059_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+PLA2G4F,http://www.proteinatlas.org/images/56752/146059_B_6_8.jpg,epidermal cells: Weak,Epidermis
+COL4A3,http://www.proteinatlas.org/images/42064/90201_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,DEJ
+COL4A3,http://www.proteinatlas.org/images/42064/90201_B_5_8.jpg,epidermal cells: Negative,DEJ
+KLK7,http://www.proteinatlas.org/images/26342/59418_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+KLK7,http://www.proteinatlas.org/images/26342/59418_B_5_8.jpg,epidermal cells: Strong,Epidermis
+KLK7,http://www.proteinatlas.org/images/62126/145391_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+KLK7,http://www.proteinatlas.org/images/62126/145391_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+COL22A1,http://www.proteinatlas.org/images/24830/57735_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis
+COL22A1,http://www.proteinatlas.org/images/24830/57735_B_6_8.jpg,epidermal cells: Weak,Epidermis
+SPRR1A,http://www.proteinatlas.org/images/11237/120267_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis 
+SPRR1A,http://www.proteinatlas.org/images/11237/120267_B_5_8.jpg,epidermal cells: Strong,Epidermis 
+CLIC3,http://www.proteinatlas.org/images/5963/137906_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+CLIC3,http://www.proteinatlas.org/images/5963/137906_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+TMEM154,http://www.proteinatlas.org/images/19184/43964_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+TMEM154,http://www.proteinatlas.org/images/19184/43964_B_6_8.jpg,epidermal cells: Negative,Epidermis
+TMEM154,http://www.proteinatlas.org/images/55411/136692_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+TMEM154,http://www.proteinatlas.org/images/55411/136692_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+ANKK1,http://www.proteinatlas.org/images/12813/28733_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+ANKK1,http://www.proteinatlas.org/images/12813/28733_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+SDR16C5,http://www.proteinatlas.org/images/25224/53755_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Negative,Epidermis
+SDR16C5,http://www.proteinatlas.org/images/25224/53755_B_6_8.jpg,epidermal cells: Strong,Epidermis
+CDC42BPG,http://www.proteinatlas.org/images/27382/56652_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+CDC42BPG,http://www.proteinatlas.org/images/27382/56652_B_4_8.jpg,epidermal cells: Moderate,Epidermis
+CDC42BPG,http://www.proteinatlas.org/images/61836/142070_B_7_1.jpg,fibroblasts: Weak: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+CDC42BPG,http://www.proteinatlas.org/images/61836/142070_B_5_8.jpg,epidermal cells: Weak,Epidermis
+KRT15,http://www.proteinatlas.org/images/135/3835_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,DEJ
+KRT15,http://www.proteinatlas.org/images/135/3835_B_5_8.jpg,epidermal cells: Weak,DEJ
+KRT15,http://www.proteinatlas.org/images/23910/53953_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Strong,DEJ
+KRT15,http://www.proteinatlas.org/images/23910/53953_B_6_8.jpg,epidermal cells: Strong,DEJ
+KRT15,http://www.proteinatlas.org/images/24554/53979_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,DEJ
+KRT15,http://www.proteinatlas.org/images/24554/53979_B_6_8.jpg,epidermal cells: Moderate,DEJ
+KRT9,http://www.proteinatlas.org/images/7261/20185_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+KRT9,http://www.proteinatlas.org/images/7261/20185_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+KRT9,http://www.proteinatlas.org/images/9673/24861_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Weak: melanocytes: Negative,Epidermis/Dermis
+KRT9,http://www.proteinatlas.org/images/9673/24861_B_4_8.jpg,epidermal cells: Negative,Epidermis/Dermis
+DLK2,http://www.proteinatlas.org/images/61223/140697_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+DLK2,http://www.proteinatlas.org/images/61223/140697_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+PLEKHG5,http://www.proteinatlas.org/images/49570/112914_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+PLEKHG5,http://www.proteinatlas.org/images/49570/112914_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+CYP4F22,http://www.proteinatlas.org/images/29875/61921_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis 
+CYP4F22,http://www.proteinatlas.org/images/29875/61921_B_4_8.jpg,epidermal cells: Moderate,Epidermis 
+CYP4F22,http://www.proteinatlas.org/images/58960/133532_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis 
+CYP4F22,http://www.proteinatlas.org/images/58960/133532_B_6_8.jpg,epidermal cells: Negative,Epidermis 
+C2orf54,http://www.proteinatlas.org/images/52722/123902_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+C2orf54,http://www.proteinatlas.org/images/52722/123902_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+NIPAL4,http://www.proteinatlas.org/images/38259/80180_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+NIPAL4,http://www.proteinatlas.org/images/38259/80180_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+COL6A5,http://www.proteinatlas.org/images/43138/93189_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+COL6A5,http://www.proteinatlas.org/images/43138/93189_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+KRT2,http://www.proteinatlas.org/images/37321/140905_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Weak,Epidermis/DEJ
+KRT2,http://www.proteinatlas.org/images/37321/140905_B_6_8.jpg,epidermal cells: Strong,Epidermis/DEJ
+MAB21L3,http://www.proteinatlas.org/images/46187/102115_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+MAB21L3,http://www.proteinatlas.org/images/46187/102115_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+JUP,http://www.proteinatlas.org/images/2139/5787_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+JUP,http://www.proteinatlas.org/images/2139/5787_B_4_8.jpg,epidermal cells: Strong,Epidermis
+JUP,http://www.proteinatlas.org/images/32047/122459_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+JUP,http://www.proteinatlas.org/images/32047/122459_B_5_8.jpg,epidermal cells: Strong,Epidermis
+SPTBN2,http://www.proteinatlas.org/images/9844/32666_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Negative,Epidermis
+SPTBN2,http://www.proteinatlas.org/images/9844/32666_B_6_8.jpg,epidermal cells: Strong,Epidermis
+SPTBN2,http://www.proteinatlas.org/images/39293/134072_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Moderate,Epidermis
+SPTBN2,http://www.proteinatlas.org/images/39293/134072_B_6_8.jpg,epidermal cells: Strong,Epidermis
+SPTBN2,http://www.proteinatlas.org/images/43529/134060_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Weak: melanocytes: Moderate,Epidermis
+SPTBN2,http://www.proteinatlas.org/images/43529/134060_B_6_8.jpg,epidermal cells: Strong,Epidermis
+KY,http://www.proteinatlas.org/images/36492/73917_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+KY,http://www.proteinatlas.org/images/36492/73917_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+KY,http://www.proteinatlas.org/images/36668/73913_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Strong: melanocytes: Negative,Epidermis/Dermis
+KY,http://www.proteinatlas.org/images/36668/73913_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+RIN1,http://www.proteinatlas.org/images/35491/71198_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+RIN1,http://www.proteinatlas.org/images/35491/71198_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+DSG4,http://www.proteinatlas.org/images/59456/132920_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis
+DSG4,http://www.proteinatlas.org/images/59456/132920_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+WFDC5,http://www.proteinatlas.org/images/49878/111922_B_7_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Negative,Epidermis/Dermis
+WFDC5,http://www.proteinatlas.org/images/49878/111922_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+CST6,http://www.proteinatlas.org/images/19316/141370_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+CST6,http://www.proteinatlas.org/images/19316/141370_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+CST6,http://www.proteinatlas.org/images/44963/139342_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+CST6,http://www.proteinatlas.org/images/44963/139342_B_6_8.jpg,epidermal cells: Negative,Epidermis
+SFN,http://www.proteinatlas.org/images/6268/17247_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Weak,Epidermis/Dermis
+SFN,http://www.proteinatlas.org/images/6268/17247_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+SFN,http://www.proteinatlas.org/images/11105/31444_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+SFN,http://www.proteinatlas.org/images/11105/31444_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+SFN,http://www.proteinatlas.org/images/40552/84840_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Weak,Epidermis/Dermis
+SFN,http://www.proteinatlas.org/images/40552/84840_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+DENND2C,http://www.proteinatlas.org/images/54955/144868_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+DENND2C,http://www.proteinatlas.org/images/54955/144868_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+IRX5,http://www.proteinatlas.org/images/47130/106779_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis
+IRX5,http://www.proteinatlas.org/images/47130/106779_B_6_8.jpg,epidermal cells: Weak,Epidermis
+PPFIA3,http://www.proteinatlas.org/images/43567/95518_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis
+PPFIA3,http://www.proteinatlas.org/images/43567/95518_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+PPFIA3,http://www.proteinatlas.org/images/50340/112656_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+PPFIA3,http://www.proteinatlas.org/images/50340/112656_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+IRX3,http://www.proteinatlas.org/images/62522/141031_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+IRX3,http://www.proteinatlas.org/images/62522/141031_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+ALS2CL,http://www.proteinatlas.org/images/46465/106293_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+ALS2CL,http://www.proteinatlas.org/images/46465/106293_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+ALS2CL,http://www.proteinatlas.org/images/48301/115292_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis/Dermis
+ALS2CL,http://www.proteinatlas.org/images/48301/115292_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+PARD6G,http://www.proteinatlas.org/images/47017/121769_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+PARD6G,http://www.proteinatlas.org/images/47017/121769_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+PLEC,http://www.proteinatlas.org/images/3847/10819_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis/DEJ
+PLEC,http://www.proteinatlas.org/images/3847/10819_B_4_8.jpg,epidermal cells: Negative,Epidermis/Dermis/DEJ
+PLEC,http://www.proteinatlas.org/images/25967/55657_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis/DEJ
+PLEC,http://www.proteinatlas.org/images/25967/55657_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis/DEJ
+PLEC,http://www.proteinatlas.org/images/29906/64199_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis/DEJ
+PLEC,http://www.proteinatlas.org/images/29906/64199_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis/DEJ
+CALML5,http://www.proteinatlas.org/images/40725/88887_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+CALML5,http://www.proteinatlas.org/images/40725/88887_B_4_8.jpg,epidermal cells: Strong,Epidermis
+PSAPL1,http://www.proteinatlas.org/images/38013/80093_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+PSAPL1,http://www.proteinatlas.org/images/38013/80093_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+PSAPL1,http://www.proteinatlas.org/images/38482/80110_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+PSAPL1,http://www.proteinatlas.org/images/38482/80110_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+C5orf46,http://www.proteinatlas.org/images/58999/131596_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+C5orf46,http://www.proteinatlas.org/images/58999/131596_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+LGALS7B,http://www.proteinatlas.org/images/1549/5043_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis
+LGALS7B,http://www.proteinatlas.org/images/1549/5043_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+LGALS7B,http://www.proteinatlas.org/images/25100/60277_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+LGALS7B,http://www.proteinatlas.org/images/25100/60277_B_5_8.jpg,epidermal cells: Strong,Epidermis
+ALOX12B,http://www.proteinatlas.org/images/24002/52924_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+ALOX12B,http://www.proteinatlas.org/images/24002/52924_B_6_8.jpg,epidermal cells: Strong,Epidermis
+NKPD1,http://www.proteinatlas.org/images/43339/94045_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Strong,Epidermis
+NKPD1,http://www.proteinatlas.org/images/43339/94045_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+ANKRD18A,http://www.proteinatlas.org/images/46346/122957_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Negative: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+ANKRD18A,http://www.proteinatlas.org/images/46346/122957_B_5_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+ANKRD18A,http://www.proteinatlas.org/images/46695/123409_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+ANKRD18A,http://www.proteinatlas.org/images/46695/123409_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+ANKRD18A,http://www.proteinatlas.org/images/49923/123414_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+ANKRD18A,http://www.proteinatlas.org/images/49923/123414_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+ANKRD18A,http://www.proteinatlas.org/images/51288/123406_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+ANKRD18A,http://www.proteinatlas.org/images/51288/123406_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+PNPLA1,http://www.proteinatlas.org/images/37853/80706_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+PNPLA1,http://www.proteinatlas.org/images/37853/80706_B_4_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+KCTD4,http://www.proteinatlas.org/images/40734/86266_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+KCTD4,http://www.proteinatlas.org/images/40734/86266_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+S1PR5,http://www.proteinatlas.org/images/29683/61222_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+S1PR5,http://www.proteinatlas.org/images/29683/61222_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+TMEM45A,http://www.proteinatlas.org/images/62101/146261_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis/Dermis
+TMEM45A,http://www.proteinatlas.org/images/62101/146261_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+USH1G,http://www.proteinatlas.org/images/24360/54832_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+USH1G,http://www.proteinatlas.org/images/24360/54832_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+NLRP10,http://www.proteinatlas.org/images/39498/88206_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+NLRP10,http://www.proteinatlas.org/images/39498/88206_B_4_8.jpg,epidermal cells: Negative,Epidermis/Dermis
+NLRP10,http://www.proteinatlas.org/images/40101/88202_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Moderate: melanocytes: Weak,Epidermis/Dermis
+NLRP10,http://www.proteinatlas.org/images/40101/88202_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+CACNB4,http://www.proteinatlas.org/images/15601/38981_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+CACNB4,http://www.proteinatlas.org/images/15601/38981_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+BGN,http://www.proteinatlas.org/images/3157/9472_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Dermis
+BGN,http://www.proteinatlas.org/images/3157/9472_B_4_8.jpg,epidermal cells: Weak,Dermis
+BGN,http://www.proteinatlas.org/images/3678/10249_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Dermis
+BGN,http://www.proteinatlas.org/images/3678/10249_B_6_8.jpg,epidermal cells: Moderate,Dermis
+EPHB3,http://www.proteinatlas.org/images/7698/22592_B_8_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+EPHB3,http://www.proteinatlas.org/images/8184/22584_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Weak,Epidermis/Dermis
+TREX2,http://www.proteinatlas.org/images/54060/124529_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+TREX2,http://www.proteinatlas.org/images/54060/124529_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+PAPL,http://www.proteinatlas.org/images/42005/94065_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+PAPL,http://www.proteinatlas.org/images/42005/94065_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+PAPL,http://www.proteinatlas.org/images/42613/93735_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis
+PAPL,http://www.proteinatlas.org/images/42613/93735_B_4_8.jpg,epidermal cells: Weak,Epidermis
+SPRR4,http://www.proteinatlas.org/images/55963/128151_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+SPRR4,http://www.proteinatlas.org/images/55963/128151_B_6_8.jpg,epidermal cells: Strong,Epidermis
+PKP3,http://www.proteinatlas.org/images/12993/151868_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Weak,Epidermis
+PKP3,http://www.proteinatlas.org/images/12993/151868_B_6_8.jpg,epidermal cells: Strong,Epidermis
+PKP3,http://www.proteinatlas.org/images/62937/156466_B_8_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis
+PKP3,http://www.proteinatlas.org/images/62937/156466_B_6_8.jpg,epidermal cells: Strong,Epidermis
+BPIFC,http://www.proteinatlas.org/images/37665/80615_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Moderate,Epidermis/Dermis
+BPIFC,http://www.proteinatlas.org/images/37665/80615_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+BPIFC,http://www.proteinatlas.org/images/43306/143248_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+BPIFC,http://www.proteinatlas.org/images/43306/143248_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+JAG2,http://www.proteinatlas.org/images/25481/59702_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Moderate,Epidermis/Dermis
+JAG2,http://www.proteinatlas.org/images/25481/59702_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+JAG2,http://www.proteinatlas.org/images/30636/64338_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+JAG2,http://www.proteinatlas.org/images/30636/64338_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+ANO9,http://www.proteinatlas.org/images/39948/119929_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Moderate,Epidermis/Dermis
+ANO9,http://www.proteinatlas.org/images/39948/119929_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+AHNAK2,http://www.proteinatlas.org/images/878/1968_B_8_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+AHNAK2,http://www.proteinatlas.org/images/878/1968_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+AHNAK2,http://www.proteinatlas.org/images/2940/7646_B_9_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+AHNAK2,http://www.proteinatlas.org/images/2940/7646_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+AHNAK2,http://www.proteinatlas.org/images/4145/12233_B_7_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+AHNAK2,http://www.proteinatlas.org/images/4145/12233_B_4_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+AHNAK2,http://www.proteinatlas.org/images/20111/47160_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/Dermis
+AHNAK2,http://www.proteinatlas.org/images/20111/47160_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+KRT79,http://www.proteinatlas.org/images/59347/136315_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+KRT79,http://www.proteinatlas.org/images/59347/136315_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+PMEL,http://www.proteinatlas.org/images/31649/144626_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Strong,Epidermis 
+PMEL,http://www.proteinatlas.org/images/31649/144626_B_6_8.jpg,epidermal cells: Strong,Epidermis 
+KRT5,http://www.proteinatlas.org/images/27/155113_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Weak: melanocytes: Moderate,DEJ
+KRT5,http://www.proteinatlas.org/images/27/155113_B_6_8.jpg,epidermal cells: Strong,DEJ
+KRT5,http://www.proteinatlas.org/images/129/2530_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Strong,DEJ
+KRT5,http://www.proteinatlas.org/images/129/2530_B_5_8.jpg,epidermal cells: Strong,DEJ
+KRT5,http://www.proteinatlas.org/images/59479/133810_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Strong,DEJ
+KRT5,http://www.proteinatlas.org/images/59479/133810_B_6_8.jpg,epidermal cells: Strong,DEJ
+THBS2,http://www.proteinatlas.org/images/17716/40441_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis/DEJ/Dermis
+THBS2,http://www.proteinatlas.org/images/17716/40441_B_6_8.jpg,epidermal cells: Moderate,Epidermis/DEJ/Dermis
+KRT10,http://www.proteinatlas.org/images/132/2531_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis/DEJ
+KRT10,http://www.proteinatlas.org/images/132/2531_B_5_8.jpg,epidermal cells: Strong,Epidermis/DEJ
+KRT10,http://www.proteinatlas.org/images/12014/143516_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis/DEJ
+KRT10,http://www.proteinatlas.org/images/12014/143516_B_6_8.jpg,epidermal cells: Moderate,Epidermis/DEJ
+LRRC16B,http://www.proteinatlas.org/images/30596/65071_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+LRRC16B,http://www.proteinatlas.org/images/30596/65071_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+KRT16,http://www.proteinatlas.org/images/136/3363_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+KRT16,http://www.proteinatlas.org/images/136/3363_B_5_8.jpg,epidermal cells: Weak,Epidermis
+KRT14,http://www.proteinatlas.org/images/134/1050_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis/DEJ
+KRT14,http://www.proteinatlas.org/images/134/1050_B_6_8.jpg,epidermal cells: Strong,Epidermis/DEJ
+KRT14,http://www.proteinatlas.org/images/452/1886_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis/DEJ
+KRT14,http://www.proteinatlas.org/images/452/1886_B_6_8.jpg,epidermal cells: Strong,Epidermis/DEJ
+KRT14,http://www.proteinatlas.org/images/23040/51237_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/DEJ
+KRT14,http://www.proteinatlas.org/images/23040/51237_B_6_8.jpg,epidermal cells: Strong,Epidermis/DEJ
+TNFRSF18,http://www.proteinatlas.org/images/8025/24709_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Dermis
+COL4A1,http://www.proteinatlas.org/images/1695/5012_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis/DEJ
+COL4A1,http://www.proteinatlas.org/images/1695/5012_B_6_8.jpg,epidermal cells: Negative,Dermis/DEJ
+ATP13A5,http://www.proteinatlas.org/images/31771/72930_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+ATP13A5,http://www.proteinatlas.org/images/31771/72930_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+ATP13A5,http://www.proteinatlas.org/images/31774/72928_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+ATP13A5,http://www.proteinatlas.org/images/31774/72928_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+PLEKHN1,http://www.proteinatlas.org/images/31742/73586_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative,Epidermis/Dermis
+PLEKHN1,http://www.proteinatlas.org/images/31742/73586_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+TPRG1,http://www.proteinatlas.org/images/44751/158649_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+TPRG1,http://www.proteinatlas.org/images/44751/158649_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+TPRG1,http://www.proteinatlas.org/images/60187/143449_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+TPRG1,http://www.proteinatlas.org/images/60187/143449_B_6_8.jpg,epidermal cells: Negative,Epidermis/Dermis
+WNT7B,http://www.proteinatlas.org/images/25665/57942_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis
+WNT7B,http://www.proteinatlas.org/images/25665/57942_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+PLA2G4E,http://www.proteinatlas.org/images/41105/142243_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Strong,DEJ
+PLA2G4E,http://www.proteinatlas.org/images/41105/142243_B_6_8.jpg,epidermal cells: Strong,DEJ
+FAM25A,http://www.proteinatlas.org/images/44808/103464_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Weak,Epidermis/Dermis
+FAM25A,http://www.proteinatlas.org/images/44808/103464_B_4_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+AGRN,http://www.proteinatlas.org/images/40090/88282_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,DEJ
+AGRN,http://www.proteinatlas.org/images/40090/88282_B_4_8.jpg,epidermal cells: Moderate,DEJ
+CENPP,http://www.proteinatlas.org/images/21787/48893_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+CENPP,http://www.proteinatlas.org/images/21787/48893_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+CLEC2A,http://www.proteinatlas.org/images/48530/111170_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis 
+CLEC2A,http://www.proteinatlas.org/images/48530/111170_B_6_8.jpg,epidermal cells: Strong,Epidermis 
+NCCRP1,http://www.proteinatlas.org/images/52812/119894_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis
+NCCRP1,http://www.proteinatlas.org/images/52812/119894_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+KRTDAP,http://www.proteinatlas.org/images/63474/142842_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+KRTDAP,http://www.proteinatlas.org/images/63474/142842_B_6_8.jpg,epidermal cells: Strong,Epidermis
+FAM83G,http://www.proteinatlas.org/images/23369/52585_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Weak: melanocytes: Moderate,Epidermis
+FAM83G,http://www.proteinatlas.org/images/23369/52585_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+FAM83G,http://www.proteinatlas.org/images/23940/151836_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Weak: melanocytes: Negative,Epidermis
+FAM83G,http://www.proteinatlas.org/images/23940/151836_B_6_8.jpg,epidermal cells: Strong,Epidermis
+RNF222,http://www.proteinatlas.org/images/48916/109916_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Weak,Epidermis
+RNF222,http://www.proteinatlas.org/images/48916/109916_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+GJB5,http://www.proteinatlas.org/images/38146/77308_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+GJB5,http://www.proteinatlas.org/images/38146/77308_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+SLC6A9,http://www.proteinatlas.org/images/13977/39730_B_8_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Dermis
+SLC6A9,http://www.proteinatlas.org/images/13977/39730_B_5_8.jpg,epidermal cells: Weak,Dermis
+FAM180B,http://www.proteinatlas.org/images/29408/60747_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+FAM180B,http://www.proteinatlas.org/images/29408/60747_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+COL13A1,http://www.proteinatlas.org/images/50392/117858_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Strong: Langerhans: Strong: melanocytes: Weak,DEJ
+COL13A1,http://www.proteinatlas.org/images/50392/117858_B_5_8.jpg,epidermal cells: Strong,DEJ
+MFAP5,http://www.proteinatlas.org/images/10553/26895_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Dermis
+MFAP5,http://www.proteinatlas.org/images/10553/26895_B_5_8.jpg,epidermal cells: Negative,Dermis
+SERPINB2,http://www.proteinatlas.org/images/15480/35525_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis
+SERPINB2,http://www.proteinatlas.org/images/15480/35525_B_6_8.jpg,epidermal cells: Weak,Epidermis
+S100A10,http://www.proteinatlas.org/images/3340/21858_B_7_1.jpg,fibroblasts: Strong: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Strong,Epidermis/Dermis/DEJ
+S100A10,http://www.proteinatlas.org/images/3340/21858_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis/DEJ
+S100A10,http://www.proteinatlas.org/images/25484/54927_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Moderate,Epidermis/Dermis/DEJ
+S100A10,http://www.proteinatlas.org/images/25484/54927_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis/DEJ
+HRNR,http://www.proteinatlas.org/images/31469/64855_B_7_1.jpg,fibroblasts: Weak: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis
+HRNR,http://www.proteinatlas.org/images/31469/64855_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+TMPRSS11F,http://www.proteinatlas.org/images/26911/58190_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Epidermis/Dermis
+TMPRSS11F,http://www.proteinatlas.org/images/26911/58190_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+ANKRD35,http://www.proteinatlas.org/images/35452/75202_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Weak: melanocytes: Negative,Epidermis
+ANKRD35,http://www.proteinatlas.org/images/35452/75202_B_5_8.jpg,epidermal cells: Weak,Epidermis
+ANKRD35,http://www.proteinatlas.org/images/35453/75218_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Negative,Epidermis
+ANKRD35,http://www.proteinatlas.org/images/35453/75218_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+TGM2,http://www.proteinatlas.org/images/2598/6722_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+TGM2,http://www.proteinatlas.org/images/2598/6722_B_4_8.jpg,epidermal cells: Negative,Epidermis/Dermis
+TGM2,http://www.proteinatlas.org/images/21019/48153_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Negative,Epidermis/Dermis
+TGM2,http://www.proteinatlas.org/images/21019/48153_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+TGM2,http://www.proteinatlas.org/images/29518/62634_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+TGM2,http://www.proteinatlas.org/images/29518/62634_B_6_8.jpg,epidermal cells: Negative,Epidermis/Dermis
+KPRP,http://www.proteinatlas.org/images/31988/73037_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+KPRP,http://www.proteinatlas.org/images/31988/73037_B_5_8.jpg,epidermal cells: Strong,Epidermis
+KPRP,http://www.proteinatlas.org/images/31990/146459_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+KPRP,http://www.proteinatlas.org/images/31990/146459_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+PNLIPRP3,http://www.proteinatlas.org/images/46202/101738_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+PNLIPRP3,http://www.proteinatlas.org/images/46202/101738_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+PNLIPRP3,http://www.proteinatlas.org/images/52009/145570_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+PNLIPRP3,http://www.proteinatlas.org/images/52009/145570_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+LRIT2,http://www.proteinatlas.org/images/37788/79363_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+LRIT2,http://www.proteinatlas.org/images/37788/79363_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+GPRIN2,http://www.proteinatlas.org/images/38129/130678_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+GPRIN2,http://www.proteinatlas.org/images/38129/130678_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+LY6G6C,http://www.proteinatlas.org/images/44151/97779_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+LY6G6C,http://www.proteinatlas.org/images/44151/97779_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+PSORS1C2,http://www.proteinatlas.org/images/61228/137949_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+PSORS1C2,http://www.proteinatlas.org/images/61228/137949_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+CDSN,http://www.proteinatlas.org/images/44730/143507_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+CDSN,http://www.proteinatlas.org/images/44730/143507_B_6_8.jpg,epidermal cells: Strong,Epidermis
+CDSN,http://www.proteinatlas.org/images/54184/143500_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis
+CDSN,http://www.proteinatlas.org/images/54184/143500_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+C6orf15,http://www.proteinatlas.org/images/1436/6916_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Dermis/Epidermis
+C6orf15,http://www.proteinatlas.org/images/1436/6916_B_4_8.jpg,epidermal cells: Strong,Dermis/Epidermis
+RNF39,http://www.proteinatlas.org/images/19278/44082_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Dermis
+RNF39,http://www.proteinatlas.org/images/19278/44082_B_6_8.jpg,epidermal cells: Weak,Dermis
+RNF39,http://www.proteinatlas.org/images/47115/124463_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Weak: melanocytes: Weak,Dermis
+RNF39,http://www.proteinatlas.org/images/47115/124463_B_5_8.jpg,epidermal cells: Weak,Dermis
+LGALS7,http://www.proteinatlas.org/images/1549/5043_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis
+LGALS7,http://www.proteinatlas.org/images/1549/5043_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+LGALS7,http://www.proteinatlas.org/images/32606/99633_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Strong: melanocytes: Strong,Epidermis
+LGALS7,http://www.proteinatlas.org/images/32606/99633_B_5_8.jpg,epidermal cells: Strong,Epidermis
+C1QTNF9B,http://www.proteinatlas.org/images/56632/128754_B_7_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+C1QTNF9B,http://www.proteinatlas.org/images/56632/128754_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+SERPINB5,http://www.proteinatlas.org/images/9570/23811_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Negative,Epidermis/Dermis
+SERPINB5,http://www.proteinatlas.org/images/9570/23811_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+SERPINB5,http://www.proteinatlas.org/images/19025/44460_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+SERPINB5,http://www.proteinatlas.org/images/19132/44262_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Strong: Langerhans: Negative: melanocytes: Moderate,Epidermis/Dermis
+SERPINB5,http://www.proteinatlas.org/images/20136/48505_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+SERPINB5,http://www.proteinatlas.org/images/20136/48505_B_6_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+COL6A6,http://www.proteinatlas.org/images/45239/99059_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Weak,DEJ
+COL6A6,http://www.proteinatlas.org/images/45239/99059_B_5_8.jpg,epidermal cells: Moderate,DEJ
+GPC2,http://www.proteinatlas.org/images/25423/59045_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+GPC2,http://www.proteinatlas.org/images/25423/59045_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+LTB4R2,http://www.proteinatlas.org/images/22689/49119_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+LTB4R2,http://www.proteinatlas.org/images/22689/49119_B_5_8.jpg,epidermal cells: Strong,Epidermis/Dermis
+LTB4R2,http://www.proteinatlas.org/images/29680/60744_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+LTB4R2,http://www.proteinatlas.org/images/29680/60744_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+RPTN,http://www.proteinatlas.org/images/30483/144247_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+RPTN,http://www.proteinatlas.org/images/30483/144247_B_6_8.jpg,epidermal cells: Strong,Epidermis
+RPTN,http://www.proteinatlas.org/images/30485/144261_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Negative: Langerhans: Negative: melanocytes: Negative,Epidermis
+RPTN,http://www.proteinatlas.org/images/30485/144261_B_6_8.jpg,epidermal cells: Moderate,Epidermis
+TIAF1,http://www.proteinatlas.org/images/51129/116469_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Weak: Langerhans: Negative: melanocytes: Negative,Epidermis
+TIAF1,http://www.proteinatlas.org/images/51129/116469_B_6_8.jpg,epidermal cells: Weak,Epidermis
+LCE6A,http://www.proteinatlas.org/images/46376/142015_B_8_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Negative,Epidermis
+LCE6A,http://www.proteinatlas.org/images/46376/142015_B_5_8.jpg,epidermal cells: Moderate,Epidermis
+STRC,http://www.proteinatlas.org/images/15731/38811_B_9_1.jpg,fibroblasts: Weak: keratinocytes: Weak: Langerhans: Negative: melanocytes: Weak,Epidermis/Dermis
+STRC,http://www.proteinatlas.org/images/15731/38811_B_4_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+VSIG8,http://www.proteinatlas.org/images/23219/50958_B_9_1.jpg,fibroblasts: Moderate: keratinocytes: Weak: Langerhans: Weak: melanocytes: Moderate,Epidermis/Dermis
+VSIG8,http://www.proteinatlas.org/images/23219/50958_B_6_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+ASPRV1,http://www.proteinatlas.org/images/34809/70245_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Strong: Langerhans: Negative: melanocytes: Weak,Epidermis
+ASPRV1,http://www.proteinatlas.org/images/34809/70245_B_6_8.jpg,epidermal cells: Strong,Epidermis
+ASPRV1,http://www.proteinatlas.org/images/34810/68373_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Negative,Epidermis
+ASPRV1,http://www.proteinatlas.org/images/34810/68373_B_6_8.jpg,epidermal cells: Strong,Epidermis
+CARD18,http://www.proteinatlas.org/images/38582/101637_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Negative: melanocytes: Weak,Epidermis
+GAN,http://www.proteinatlas.org/images/11825/27858_B_9_1.jpg,fibroblasts: Negative: keratinocytes: Moderate: Langerhans: Negative: melanocytes: Negative,Epidermis/Dermis
+GAN,http://www.proteinatlas.org/images/11825/27858_B_4_8.jpg,epidermal cells: Weak,Epidermis/Dermis
+GAN,http://www.proteinatlas.org/images/49473/123543_B_8_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Weak: melanocytes: Moderate,Epidermis/Dermis
+GAN,http://www.proteinatlas.org/images/49473/123543_B_6_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+PRODH,http://www.proteinatlas.org/images/20361/105359_B_7_1.jpg,fibroblasts: Moderate: keratinocytes: Moderate: Langerhans: Moderate: melanocytes: Moderate,Epidermis/Dermis
+PRODH,http://www.proteinatlas.org/images/20361/105359_B_5_8.jpg,epidermal cells: Moderate,Epidermis/Dermis
+C17orf100,http://www.proteinatlas.org/images/46824/114280_B_7_1.jpg,fibroblasts: Negative: keratinocytes: Strong: Langerhans: Weak: melanocytes: Strong,Epidermis
+C17orf100,http://www.proteinatlas.org/images/46824/114280_B_5_8.jpg,epidermal cells: Strong,Epidermis
