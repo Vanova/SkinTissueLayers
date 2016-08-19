@@ -8,7 +8,7 @@ figsize(12, 4)
 import os
 import sys
 os.environ['THEANO_FLAGS'] = "device=cpu,optimizer=fast_run"
-DATA_DIR = os.path.join('/res', 'data')
+DATA_DIR = os.path.join('data')
 sys.path.append(os.path.join('/res', 'src'))
 
 import scipy.io as sio
@@ -19,9 +19,9 @@ from theano import tensor as T
 
 import h5py # for loading data
 
-from utils import (plot_images, Progbar, plot_confusion_matrix, plot_weights,
-                   glorot_uniform, validate_deep_network, train_networks,
-                   report_performance, plot_weights4D)
+# from utils import (plot_images, Progbar, plot_confusion_matrix, plot_weights,
+#                    glorot_uniform, validate_deep_network, train_networks,
+#                    report_performance, plot_weights4D)
 
 f = h5py.File(os.path.join(DATA_DIR, 'mnist.h5'), 'r')
 X_train = f['X_train'].value
